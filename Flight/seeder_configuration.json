@@ -1,0 +1,5 @@
+{
+   "source_notice":"https://raw.githubusercontent.com/AlexanderKadyrov/JSONs/master/Flight/seeder_notice.json",
+   "source_event":"https://raw.githubusercontent.com/AlexanderKadyrov/JSONs/master/Flight/seeder_event.json",
+   "source_move":"https://raw.githubusercontent.com/AlexanderKadyrov/JSONs/master/Flight/seeder_move.json"
+}
